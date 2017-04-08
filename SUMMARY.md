@@ -6,4 +6,6 @@
 * [Frontend Vernacular](frontend-lingo.md)
 * [Folder Structure](folder-structure.md)
 * [Unintuitive Things to Know](unintuitive-things-to-know.md)
+* [The Fractal Component Architecture](the-fractal-component-architecture.md)
+* [Component Readiness Checklist](component-readiness-checklist.md)
 
