@@ -4,7 +4,7 @@
 
 ## 🚀 Mission
 
-Our Chapter's mission is to provide a consistent, accessible, and rapid frontend development experience for engineers across the Financial Tribe. We intend to do this by providing high quality examples and documentation, robust tooling and shared components, and tight collaboration.
+Our Chapter's mission is to provide a consistent, accessible, and rapid frontend development experience for engineers across the Financial Tribe. We intend to do this by providing high quality examples and documentation, robust shared components, and tight collaboration.
 
 ## 👯 Participating Squads
 
@@ -28,7 +28,7 @@ Brick and Morty - Change Management
 
 [redux-modules](https://mboperator.gitbooks.io/redux-modules/content/)
 
-## ⚡️ Quick Links 
+## ⚡️ Quick Links
 
 [Chapter Meeting Minutes](https://hackmd.io/CwNghgZgJhCmCcBaEBmAjAVkcdAGRY8ARioilLgBxpHCwqUYpA==)
 
