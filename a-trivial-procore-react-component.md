@@ -29,9 +29,7 @@ react_component(
 )
 ```
 ### Component exposition in wrench
-* Add a line to `src/components.js`
-	* `import ExampleComponent from 'components/ExampleComponent';`
-	* Component definition:
+* Component definition:
 ```jsx
 import React, { PropTypes } from 'react';
 
@@ -81,6 +79,21 @@ ExampleComponent.defaultProps = {
 export default ExampleComponent;
 ```
 This is called a "Pure Component".
+
+* Add 2 lines to `src/components.js`
+	* Alongside all other existing imports, add:
+		* `import ExampleComponent from 'components/ExampleComponent';`
+		or
+		* `const ExampleComponent = System.import('components/ExampleComponent')`
+	* Within the `export default` block, add:
+	```js
+	export default {
+		...
+		ExampleComponent,
+		...
+	}
+	```
+
 
 ## Procore-specific Example: <FeedbackButton />
 ### procore/procore
