@@ -91,6 +91,7 @@ In [`app/views/utilities/_beta_button.html.erb`](https://github.com/procore/proc
 ```
 
 ### Wrench
+In [`src/_shared/components/FeedbackButton/FeedbackButton.jsx`](https://github.com/procore/wrench/blob/master/src/_shared/components/FeedbackButton/FeedbackButton.jsx)
 ```jsx
 import React, { PropTypes } from 'react';
 import cx from 'classnames';
