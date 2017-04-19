@@ -1,6 +1,6 @@
 # A Trivial React Component
 
-> by: &lt;Michael Cola&gt;
+> by: Michael Cola
 
 # React Components in `procore/procore` and `procore/wrench`
 
